@@ -1,0 +1,192 @@
+# Privacy Policy — AIOB Online
+
+**Effective Date:** September 16, 2024
+**Last Updated:** September 16, 2026
+
+AIOB Online is a professional consultation platform developed by BigFatAILabs that connects individuals and businesses with expert consultants across domains including business, finance, HR, IT, marketing, healthcare, and more. We are committed to protecting your personal information and being transparent about how we use it.
+
+By downloading or using AIOB Online, you agree to the practices described in this Privacy Policy.
+
+---
+
+## 1. Information We Collect and How We Use It
+
+### Account and Profile Information
+
+When you register as a Client or Consultant, we collect:
+
+* Full name, email address, and phone number
+* Profile photo (optional)
+* Role-specific details: for Consultants, this includes professional category, qualifications, availability, and consultation pricing
+
+This information is used to create and manage your account, enable discovery between clients and consultants, and provide core platform functionality.
+
+### Consultation and Booking Data
+
+We collect data related to consultations, including:
+
+* Booking details, appointment schedules, and consultation history
+* Messages and communication between clients and consultants
+* Session notes or documents shared during consultations
+
+This data is used solely to facilitate consultations and provide service history within the app.
+
+### Audio and Video Data
+
+AIOB Online uses live audio and video for real-time consultation sessions, powered by Agora. Audio and video streams are transmitted in real time for the duration of a call and are not recorded or stored by AIOB Online unless explicitly stated.
+
+Microphone and camera access can be controlled at any time through your device settings.
+
+### Payment Information
+
+We collect payment-related data to process consultation fees. Payment transactions are handled by our payment provider. We do not store raw card or bank details on our servers. Transaction history is retained to support billing records and dispute resolution.
+
+### Device and Technical Information
+
+To ensure app performance and stability, we may collect:
+
+* Device model, operating system version, and app version
+* Network information (IP address, connection type)
+* Crash logs and performance diagnostics
+
+### Push Notifications
+
+We use Firebase Cloud Messaging (FCM) to send push notifications for booking confirmations, appointment reminders, messages, and platform updates. You can disable push notifications at any time through your device settings.
+
+### Usage Analytics
+
+Aggregated, anonymized usage data may be collected to understand app performance and improve features. This data does not include personal consultation content.
+
+### Location Information
+
+AIOB Online does not require or collect precise location data. The app does not track your location.
+
+### Support and Communication Data
+
+Information you share via in-app support, report submissions, or email — including messages and attachments — may be retained to resolve issues and improve the platform.
+
+---
+
+## 2. How We Use Your Data
+
+We use collected data to:
+
+* Create and manage Client and Consultant accounts
+* Match clients with appropriate consultants
+* Facilitate real-time consultation sessions (audio, video, chat)
+* Process and record consultation payments
+* Send booking confirmations, reminders, and service notifications
+* Enable consultants to manage availability and appointments
+* Resolve support requests and investigate reported content
+* Maintain security, prevent fraud, and comply with legal obligations
+
+---
+
+## 3. Sharing and Disclosure of Information
+
+We do not sell or rent your personal data.
+
+Your information may be shared only in the following situations:
+
+* **Between users:** Client name and profile are visible to consultants they book, and vice versa — limited to what is necessary for the consultation.
+* **Service providers:** Trusted third-party services, including Agora for video, Firebase for notifications, payment processors for billing, and cloud infrastructure providers, may process information required to operate the platform. These providers are bound by confidentiality obligations.
+* **Legal compliance:** When required by applicable law, court order, or regulatory authority.
+* **Account deletion:** Upon deletion request, personal data is removed or anonymized in accordance with applicable regulations.
+
+---
+
+## 4. User-Generated Content and Reporting
+
+AIOB Online allows users to report inappropriate profiles or content. Reported content and associated account data may be reviewed by our moderation team to enforce community standards.
+
+---
+
+## 5. Account Deletion
+
+You may delete your account at any time from:
+
+**Profile → Account & Privacy → Delete Account**
+
+Upon deletion:
+
+* Your profile is removed from the platform.
+* Pending appointments are cancelled and affected parties are notified.
+* Personal data is deleted or anonymized within 30 days, except where retention is required by law, such as transaction records.
+
+---
+
+## 6. Data Security
+
+We use industry-standard security practices including:
+
+* Encrypted data transmission (HTTPS/TLS)
+* Secure authentication with OTP verification
+* Restricted server-side access controls
+
+Users are responsible for maintaining the confidentiality of their login credentials.
+
+---
+
+## 7. Data Retention
+
+We retain user data only as long as necessary to provide services or meet legal obligations. Inactive account data may be deleted after an extended period of inactivity.
+
+---
+
+## 8. Your Rights and Choices
+
+You have the right to:
+
+* Access or update your profile information at any time within the app
+* Request deletion of your account and associated data
+* Disable push notifications via device settings
+* Revoke microphone or camera access via device settings
+
+Revoking certain permissions may limit access to consultation features.
+
+---
+
+## 9. Children's Privacy
+
+AIOB Online is intended for users aged 13 and above. The platform is designed for professional consultation and is not directed at children. We do not knowingly collect personal data from children under 13.
+
+---
+
+## 10. Cookies and Local Storage
+
+AIOB Online uses secure local device storage to maintain login sessions, store user preferences, and improve performance. No third-party advertising cookies are used.
+
+---
+
+## 11. Third-Party Services
+
+AIOB Online integrates the following third-party services, each governed by their own privacy policies:
+
+| Service                  | Purpose                            |
+| ------------------------ | ---------------------------------- |
+| Agora                    | Real-time audio/video consultation |
+| Firebase Cloud Messaging | Push notifications                 |
+| Payment Processor        | Consultation fee transactions      |
+
+---
+
+## 12. Tracking
+
+AIOB Online does not track users across third-party apps or websites for advertising purposes.
+
+**NSPrivacyTracking = false**
+
+---
+
+## 13. Changes to This Policy
+
+We may update this Privacy Policy periodically. Changes will be communicated via in-app notification or email. Continued use of the app after updates constitutes acceptance of the revised policy.
+
+---
+
+## 14. Contact Information
+
+For privacy-related questions, data deletion requests, or support:
+
+**Website:** https://www.aiobonline.com
+**Managed by:** BigFatAILabs

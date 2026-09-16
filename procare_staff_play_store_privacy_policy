@@ -1,0 +1,213 @@
+# Privacy Policy — Procare
+
+**Effective Date:** September 16, 2024
+**Last Updated:** September 16, 2026
+
+Procare is a healthcare care coordination platform developed by BigFatAILabs that connects nurses, caretakers, and care coordinators to deliver accountable, real-time patient care management. We are committed to protecting your personal information and the sensitive healthcare data you entrust to us.
+
+By downloading or using Procare, you agree to the practices described in this Privacy Policy.
+
+---
+
+## 1. Information We Collect and How We Use It
+
+### Account and Profile Information
+
+When you register as a Nurse or Caretaker, we collect:
+
+* Full name, email address, and phone number
+* Profile photo (optional)
+* Role-specific details: for Nurses, this includes staff credentials, assigned shifts, and facility information; for Caretakers, this includes care coordinator designation and patient assignments
+
+This information is used to create and manage your account, enable role-based access control, and provide core platform functionality.
+
+### Shift and Attendance Data
+
+We collect data related to nurse shifts, including:
+
+* Check-in and check-out timestamps and locations
+* Shift duration and active session records
+* OTP-verified attendance logs
+
+This data is used to ensure accurate shift accountability and provide an auditable record for care facilities.
+
+### Patient Care and Activity Data
+
+We collect data related to patient care activities, including:
+
+* Task assignments, completions, and priority status
+* Patient vital signs (temperature, blood pressure, and other recorded metrics)
+* Medication schedules and administration records
+* Activity logs, session notes, and care timeline entries
+* Case records and care history
+
+This data is used solely to coordinate and document patient care within the platform. Patient care data is treated with the highest level of sensitivity and is accessible only to authorized personnel assigned to that patient.
+
+### Location and Geofencing Data
+
+Procare uses device location for geofencing functionality to:
+
+* Verify nurse check-in within an authorized facility zone
+* Trigger alerts when a patient or staff member moves outside a designated safe zone
+
+Location data is collected only during active shifts and is not used for advertising or shared with third parties beyond the care facility administration. You may revoke location access at any time via device settings, though this will limit check-in and geofencing features.
+
+### Camera and File Data
+
+Procare may request camera access for:
+
+* Profile photo capture
+* Document or evidence uploads related to care activities
+
+Camera access can be revoked at any time via device settings.
+
+### Push Notifications
+
+We use Firebase Cloud Messaging (FCM) to send push notifications for shift reminders, task updates, geofence alerts, and care coordination messages. You can disable push notifications at any time through your device settings.
+
+### Device and Technical Information
+
+To ensure app performance and stability, we may collect:
+
+* Device model, operating system version, and app version
+* Network information (IP address, connection type)
+* Crash logs and performance diagnostics
+
+### Usage Analytics
+
+Aggregated, anonymized usage data may be collected to understand app performance and improve features. This data does not include patient identifiers or care content.
+
+### Support and Communication Data
+
+Information you share via in-app support or email — including messages and attachments — may be retained to resolve issues and improve the platform.
+
+---
+
+## 2. How We Use Your Data
+
+We use collected data to:
+
+* Create and manage Nurse and Caretaker accounts with role-based access
+* Verify shift attendance via OTP and geolocation
+* Coordinate and document patient care tasks, vitals, and medications
+* Provide caretakers with real-time dashboards, activity logs, and patient timelines
+* Trigger geofence alerts for patient and staff safety
+* Send shift, task, and care coordination notifications
+* Resolve support requests and investigate reported issues
+* Maintain security, prevent unauthorized access, and comply with legal obligations
+
+---
+
+## 3. Sharing and Disclosure of Information
+
+We do not sell or rent your personal data or patient care data.
+
+Your information may be shared only in the following situations:
+
+* **Between authorized users:** Nurse profiles and shift data are visible to assigned caretakers and care coordinators — limited to what is necessary for care coordination. Patient care data is accessible only to users explicitly assigned to that patient.
+* **Care facility administration:** Shift, attendance, and care activity records may be accessible to authorized facility administrators.
+* **Service providers:** Trusted third-party services, including Firebase for notifications and cloud infrastructure providers, may process information required to operate the platform. These providers are bound by confidentiality obligations.
+* **Legal compliance:** When required by applicable law, court order, or regulatory authority.
+* **Account deletion:** Upon deletion request, personal data is removed or anonymized in accordance with applicable regulations.
+
+---
+
+## 4. Sensitive Healthcare Data
+
+Procare handles sensitive healthcare information including patient vitals, medication records, and care activity logs. This data is:
+
+* Stored with encryption at rest and in transit
+* Accessible only to role-authorized users
+* Never used for advertising, analytics profiling, or shared beyond the care facility
+* Subject to screenshot and overlay protection on sensitive screens within the app
+
+---
+
+## 5. Account Deletion
+
+You may request account deletion by contacting support at [contact@bigfatailabs.com](mailto:contact@bigfatailabs.com).
+
+Upon deletion:
+
+* Your profile is removed from the platform.
+* Active shift assignments are cancelled and affected parties are notified.
+* Personal data is deleted or anonymized within 30 days, except where retention is required by law or by the care facility's record-keeping obligations (e.g., care activity logs tied to patient records).
+
+---
+
+## 6. Data Security
+
+We use industry-standard security practices including:
+
+* Encrypted data transmission (HTTPS/TLS)
+* Encrypted local storage for sensitive data (flutter_secure_storage)
+* OTP-verified shift check-in to prevent proxy attendance
+* Screenshot and screen overlay protection on sensitive screens (OTP, patient data)
+* Restricted role-based server-side access controls
+
+Users are responsible for maintaining the confidentiality of their login credentials.
+
+---
+
+## 7. Data Retention
+
+We retain user and care activity data only as long as necessary to provide services or meet legal and facility compliance obligations. Inactive account data may be deleted after an extended period of inactivity.
+
+---
+
+## 8. Your Rights and Choices
+
+You have the right to:
+
+* Access or update your profile information at any time within the app
+* Request deletion of your account and associated personal data
+* Disable push notifications via device settings
+* Revoke location or camera access via device settings
+
+Revoking certain permissions (location, camera) will limit access to geofencing, check-in, and document upload features.
+
+---
+
+## 9. Children's Privacy
+
+Procare is a professional healthcare coordination platform intended for adults aged 18 and above. It is not directed at children. We do not knowingly collect personal data from individuals under 18.
+
+---
+
+## 10. Local Storage
+
+Procare uses secure local device storage to maintain login sessions, store user preferences, and cache shift data for offline access. No third-party advertising cookies or trackers are used.
+
+---
+
+## 11. Third-Party Services
+
+Procare integrates the following third-party services, each governed by their own privacy policies:
+
+| Service                       | Purpose             |
+| ----------------------------- | ------------------- |
+| Firebase Cloud Messaging      | Push notifications  |
+| Cloud Infrastructure Provider | Secure data hosting |
+
+---
+
+## 12. Tracking
+
+Procare does not track users across third-party apps or websites for advertising purposes.
+
+**NSPrivacyTracking = false**
+
+---
+
+## 13. Changes to This Policy
+
+We may update this Privacy Policy periodically. Changes will be communicated via in-app notification or email. Continued use of the app after updates constitutes acceptance of the revised policy.
+
+---
+
+## 14. Contact Information
+
+For privacy-related questions, data deletion requests, or support:
+
+**Email:** [contact@bigfatailabs.com](mailto:contact@bigfatailabs.com)
+**Managed by:** BigFatAILabs

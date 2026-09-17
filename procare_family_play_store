@@ -1,0 +1,482 @@
+Privacy Policy — ProCare Family
+Effective Date: September 16, 2024 Last Updated: September 17, 2026
+
+ProCare Family ("ProCare", "we", "our", or "us") is a healthcare care-coordination application developed and managed by BigFatAILabs. ProCare Family helps family members stay informed about and participate in the home nursing care of their loved ones.
+
+The application provides features including care dashboards, care plans, medication tracking, vital history, AI-assisted care coordination, reports, billing and payments, family access, caregiver feedback, and notifications.
+
+We are committed to protecting personal information and sensitive healthcare information handled through ProCare.
+
+By downloading, accessing, or using ProCare Family, you acknowledge the practices described in this Privacy Policy.
+
+1. Information We Collect
+Depending on how you use ProCare Family, we may collect the following categories of information.
+
+1.1 Account and Profile Information
+When you create or use a ProCare Family account, we may collect:
+
+Full name
+Mobile phone number
+Email address
+Profile photograph, if provided
+Login and authentication information
+Family relationship or role
+Account preferences
+Information relating to your access permissions
+This information is used to create and manage your account, authenticate you, provide appropriate access to care information, and communicate with you about the service.
+
+1.2 Patient and Care Information
+ProCare Family may provide access to information relating to a family member or patient receiving home nursing care.
+
+This may include:
+
+Patient name and profile information
+Health and care information
+Blood pressure
+Heart rate
+SpO₂
+Temperature
+Other recorded vital measurements
+Medication schedules and medication-related records
+Care tasks and task completion status
+Nurse check-in information
+Nurse notes and care notes
+Care activities and timelines
+Care plans
+Relevant medical or care history
+Care-related alerts and observations
+This information is used to help authorized family members monitor and coordinate home nursing care.
+
+Health and patient information is treated as sensitive information and is only made available to users who have appropriate authorization or access permissions.
+
+1.3 Caregiver and Nursing Information
+ProCare Family may display information about caregivers or nurses involved in a patient's care, including:
+
+Caregiver or nurse name
+Profile photograph, where available
+Assigned role
+Check-in status
+Care activity information
+Shift or visit information
+Care notes associated with the patient's care
+Caregiver ratings or appreciation submitted through the application
+This information is displayed to authorized users for care coordination and transparency.
+
+1.4 Care Plan and Medication Information
+The application may collect and display information relating to:
+
+Daily care tasks
+Task completion
+Medication schedules
+Medication administration records
+Care instructions
+Nurse notes
+Upcoming and completed activities
+Care-plan progress
+This information allows family members to understand the current status of their loved one's care.
+
+1.5 Vitals and Health History
+ProCare may collect and display health measurements recorded as part of the patient's care, including:
+
+SpO₂
+Blood pressure
+Heart rate
+Temperature
+Other care-related vital measurements
+Historical readings may be retained so that authorized users can review trends and generate care reports.
+
+1.6 AI Care Coordinator
+ProCare Family provides an AI-assisted care coordination feature that may allow users to:
+
+Ask care-related questions
+Request information about care activities
+Request supplies or care-related actions
+Interact through text
+Send voice messages
+Upload files where supported
+Information submitted to the AI Care Coordinator may include messages, care-related information, uploaded files, and other information necessary to respond to the user's request.
+
+AI-generated responses are intended to assist with care coordination and general information. They should not be considered a replacement for professional medical advice, diagnosis, or emergency medical services.
+
+Important: If ProCare uses an external AI provider to process these conversations, that provider should be explicitly named in this section and in your Google Play Data Safety disclosures.
+
+1.7 Reports and Documents
+ProCare may allow users to generate and access weekly, monthly, or other care-related reports.
+
+Reports may contain:
+
+Patient information
+Vital readings
+Medication information
+Care-plan progress
+Nurse or caregiver notes
+Care activity information
+Other information associated with the patient's care
+Users may also choose to share reports with trusted individuals or healthcare professionals through available sharing features.
+
+Where the application provides expiring links or other access controls, these mechanisms are intended to limit access to shared information.
+
+1.8 Files, Photos, and Camera
+ProCare may request access to your device's camera or files when required for features such as:
+
+Uploading care-related documents
+Uploading supporting files
+Capturing profile photographs
+Uploading information requested through the AI Care Coordinator
+Sharing care-related documentation
+Access to your camera, photos, or files is requested only when required for the relevant feature.
+
+You may revoke these permissions through your device settings. Revoking access may prevent certain features from functioning.
+
+1.9 Voice Messages
+If you use voice messaging or voice-related functionality, ProCare may process:
+
+Voice recordings
+Audio files
+Transcribed content, where applicable
+Voice information is used to provide the requested communication or care-coordination functionality.
+
+If voice recordings are processed by a third-party transcription or AI provider, the relevant provider should be identified in the Third-Party Services section.
+
+1.10 Family Access Information
+ProCare allows users to invite family members and assign different access roles.
+
+Depending on the role assigned, invited family members may be able to access some or all relevant care information.
+
+The available roles may include:
+
+Admin
+Member
+View
+The information accessible to each user is determined by the permissions configured for the account and patient.
+
+Users are responsible for only inviting people they trust and assigning appropriate access permissions.
+
+1.11 Billing and Payment Information
+ProCare may provide billing and payment functionality, including:
+
+Invoices
+Payment status
+Payment history
+Payment requests
+Billing disputes
+Payment-extension requests
+Payments may be processed through Razorpay or other payment service providers.
+
+ProCare does not need to directly store your complete card or banking credentials when payment processing is handled by the applicable payment provider.
+
+Payment providers may collect and process payment information according to their own privacy policies and terms.
+
+1.12 Notifications
+ProCare uses push notifications to provide timely updates relating to the service.
+
+Notifications may include:
+
+Medication reminders
+Nurse check-in updates
+Care-plan updates
+Vital-related alerts
+Care activity updates
+Invoice and payment notifications
+Family access updates
+Care coordination messages
+Push notifications may be delivered using Firebase Cloud Messaging (FCM).
+
+You can disable notifications through your device settings, although doing so may prevent you from receiving important care-related updates.
+
+1.13 Device and Technical Information
+When you use ProCare, we may automatically receive certain technical information necessary to operate and maintain the application, such as:
+
+Device type and model
+Operating system and version
+Application version
+Network information
+IP address
+Crash information
+Diagnostic information
+Performance information
+Device identifiers where technically required by the application or service providers
+This information is used for application security, troubleshooting, performance monitoring, and service improvement.
+
+1.14 Biometric Authentication
+Where supported by your device, ProCare may allow biometric authentication such as fingerprint or facial authentication.
+
+Biometric information used by the device's authentication system is generally processed by the operating system rather than being directly collected or stored by ProCare.
+
+ProCare uses the authentication result provided by the device to help secure access to the application.
+
+2. How We Use Your Information
+We may use information collected through ProCare to:
+
+Create and manage user accounts
+Authenticate users
+Provide family members with authorized access to care information
+Display care dashboards
+Display patient vitals and health history
+Manage care plans
+Track tasks and medications
+Display caregiver and nurse activity
+Generate care reports
+Facilitate communication between authorized users
+Provide AI-assisted care coordination
+Process user-submitted files and messages
+Process payments and billing requests
+Send notifications and alerts
+Manage family member access
+Collect caregiver ratings and appreciation
+Provide customer support
+Detect security issues and unauthorized access
+Troubleshoot technical problems
+Improve application reliability and functionality
+Comply with applicable legal requirements
+We do not use patient healthcare information for advertising purposes.
+
+3. How We Share Information
+We do not sell personal information or patient healthcare information.
+
+Information may be shared in the following circumstances:
+
+Authorized Family Members
+Patient and care information may be shared with family members who have been explicitly granted access through ProCare.
+
+The amount of information available may depend on the user's assigned role and permissions.
+
+Caregivers and Care Coordinators
+Relevant information may be available to authorized caregivers, nurses, and care coordinators involved in providing or coordinating the patient's care.
+
+Healthcare Professionals
+Where supported by the application, users may choose to share care reports or relevant information with trusted doctors or healthcare professionals.
+
+Service Providers
+We may use third-party service providers to operate ProCare, including providers for:
+
+Cloud infrastructure
+Push notifications
+Payment processing
+AI services
+File or document processing
+Analytics and diagnostics
+Application security
+These providers may process information only as necessary to provide their services to us.
+
+Legal Requirements
+We may disclose information when required by applicable law, legal process, court order, or valid governmental or regulatory request.
+
+Business Transfers
+If BigFatAILabs undergoes a merger, acquisition, restructuring, financing, or sale of assets, information may be transferred as part of that transaction, subject to applicable legal requirements.
+
+4. Healthcare Information
+ProCare handles sensitive healthcare information, including patient vitals, medication information, care plans, care activities, and care notes.
+
+We use this information to provide the care-coordination functionality of the application.
+
+Healthcare information is not used for advertising or unrelated marketing purposes.
+
+Access to healthcare information is controlled according to account roles, patient assignments, and configured permissions.
+
+Because ProCare handles health-related information, its data practices should also be accurately reflected in the Google Play Health Apps declaration and Data Safety section. Google Play currently requires health apps to complete the Health Apps declaration and requires privacy disclosures covering sensitive health information. (Google Help)
+
+5. Data Security
+We take reasonable technical and organizational measures to protect information handled through ProCare.
+
+Depending on the feature and implementation, these measures may include:
+
+HTTPS/TLS for data transmission
+Secure authentication mechanisms
+Role-based access controls
+Secure local storage for authentication information
+Server-side authorization controls
+Access controls for patient information
+Application security measures
+Audit and diagnostic logging
+Device-level biometric authentication where supported
+Protection of sensitive application screens where implemented
+No method of electronic storage or transmission can be guaranteed to be completely secure. We therefore cannot guarantee absolute security of information.
+
+6. Data Retention
+We retain personal and healthcare information for as long as reasonably necessary to:
+
+Provide ProCare services
+Maintain care records
+Meet contractual obligations
+Resolve disputes
+Maintain security
+Comply with applicable legal, regulatory, and healthcare record-keeping requirements
+Retention periods may differ depending on the type of information and the reason it was collected.
+
+Where information is no longer required, it may be deleted, anonymized, or securely disposed of, subject to applicable legal or contractual retention requirements.
+
+7. Account and Data Deletion
+You may request deletion of your ProCare account and associated personal information by contacting:
+
+Email: contact@bigfatailabs.com
+
+Where supported by the application, account deletion may also be initiated from within the application.
+
+Upon receiving a valid deletion request, we will delete or anonymize information that we are not required to retain.
+
+Certain healthcare, billing, transaction, or care-record information may need to be retained for a legally required or otherwise applicable period.
+
+Deletion of an account may also remove your access to information associated with the account.
+
+8. Your Privacy Choices and Rights
+Depending on applicable law, you may have rights to:
+
+Access your personal information
+Correct inaccurate information
+Update your profile
+Request deletion of your account
+Request deletion of eligible personal information
+Control family-member access
+Disable push notifications
+Manage camera and file permissions
+Control device-level biometric authentication
+Request information about how your data is handled
+Some requests may be subject to identity verification and applicable legal or contractual limitations.
+
+9. Children's Privacy
+ProCare Family is intended for adults and is not directed toward children under the age of 18.
+
+We do not knowingly collect personal information from children under 18 for the purpose of creating independent ProCare accounts.
+
+If you believe that a child has provided personal information to us, please contact us at:
+
+contact@bigfatailabs.com
+
+10. Local Device Storage
+ProCare may use secure device storage to maintain information necessary for application functionality, such as:
+
+Authentication/session information
+User preferences
+Application configuration
+Cached information required for supported functionality
+Sensitive authentication information should be stored using appropriate platform security mechanisms.
+
+ProCare does not use third-party advertising cookies within the mobile application.
+
+11. Third-Party Services
+ProCare may integrate third-party services to provide specific application functionality.
+
+These may include:
+
+Service	Purpose
+Firebase Cloud Messaging	Push notifications
+Razorpay	Payment processing
+Cloud infrastructure provider	Hosting and application infrastructure
+AI service provider	AI-assisted care coordination, where applicable
+Crash/diagnostic services	Application stability and troubleshooting, where applicable
+Third-party providers may process information according to their own privacy policies and contractual obligations.
+
+The final version of this table should contain the exact providers and SDKs actually present in the production build.
+
+12. AI and Automated Processing
+ProCare Family includes AI-assisted functionality intended to help users with care coordination.
+
+Information submitted to the AI assistant may be processed by ProCare and, where applicable, third-party AI service providers.
+
+AI responses may be generated using automated processing and may not always be accurate or complete.
+
+The AI assistant should not be relied upon as a substitute for a doctor, nurse, emergency service, diagnosis, or professional medical advice.
+
+Users should contact an appropriate healthcare professional or emergency service when dealing with urgent or potentially life-threatening situations.
+
+13. Data Sharing by User Action
+Certain ProCare features allow users to intentionally share information with another person or organization.
+
+For example, users may choose to:
+
+Share a care report with a doctor
+Invite a family member
+Send a care-related message
+Upload or send a document
+Share information through an available report-sharing feature
+When you intentionally initiate such sharing, the information may be transferred to the recipient you select.
+
+Users should verify that the recipient is authorized to receive the information before sharing sensitive healthcare information.
+
+Google Play distinguishes certain user-initiated transfers from other forms of third-party sharing, but the app's actual Data Safety disclosures must still accurately reflect the implementation. (Google Help)
+
+14. Tracking and Advertising
+ProCare Family is not designed to track users across third-party applications or websites for advertising purposes.
+
+We do not sell patient healthcare information or use patient healthcare information for targeted advertising.
+
+If analytics or diagnostic SDKs are used in the application, their data practices will be reflected in the applicable privacy disclosures and Google Play Data Safety declaration.
+
+15. Permissions
+Depending on the features you use, ProCare may request permissions such as:
+
+Notifications
+Used to send care-related alerts, reminders, updates, and messages.
+
+Camera
+Used for profile photographs and supported document or care-related uploads.
+
+Photos and Files
+Used when you choose to upload or attach documents, images, or other files.
+
+Microphone
+Used when you choose to send voice messages or use voice-based functionality.
+
+Permissions are requested only when required for the corresponding functionality.
+
+You can manage permissions through your device settings.
+
+16. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes to ProCare, applicable laws, technology, or our data practices.
+
+When material changes are made, we may notify users through the application, email, or other appropriate communication.
+
+The Last Updated date at the beginning of this policy will indicate when the policy was most recently revised.
+
+17. Contact Us
+If you have questions about this Privacy Policy, our data practices, or wish to request access, correction, or deletion of your personal information, please contact us:
+
+BigFatAILabs Email: contact@bigfatailabs.com
+
+Important before you publish this
+There are a few things I would not blindly copy from the old Staff App policy into the Family App policy.
+
+1. Remove staff-specific language
+Your old policy talks about:
+
+Nurse registration
+Staff credentials
+Nurse shifts
+OTP attendance
+Facility geofencing
+Nurse check-in locations
+Caretaker designation
+Those are primarily Staff App functions and shouldn't be presented as Family App data collection unless the Family App actually collects them.
+
+2. Verify your actual SDKs
+Before publishing, check your pubspec.yaml/pubspec.lock and Android/iOS configuration for things such as:
+
+Firebase
+Razorpay
+AI provider
+Crash reporting
+Analytics
+Voice/transcription services
+File storage
+Any location SDK
+Any advertising SDK
+Google Play requires your Privacy Policy and Data Safety declaration to accurately represent the data practices of the app and its SDKs. (Google Help)
+
+3. Be especially careful with AI
+Your Family App has the AI Care Coordinator, so the final policy needs to identify what happens to messages, voice recordings, uploaded files, and health information sent to the AI provider. Google specifically states that its User Data requirements also apply to third-party AI integrations. (Google Help)
+
+4. Don't claim encryption/security features unless they're actually implemented
+For example, if your backend/database isn't encrypted at rest, don't state:
+
+"All healthcare data is encrypted at rest."
+
+Instead, describe the protections you actually use.
+
+5. Google Play requirements
+Because ProCare handles health information, you should also complete the Health Apps declaration in Play Console. Google says this declaration applies to apps distributed through Play, including testing tracks, and health-related apps must accurately disclose their health functionality. (Google Help)
+
+Also make sure your Privacy Policy, Play Store Data Safety form, permissions, and actual code/SDK behavior all match. Google explicitly requires these disclosures to be comprehensive and accurate. (Google Help)
+
+If you give me your ProCare Family pubspec.yaml, I can also map the actual Flutter packages/SDKs to the Google Play Data Safety form (data type → collected/shared → purpose → required/optional → retention/deletion), which is the next thing I'd recommend doing before submitting the app.
+
